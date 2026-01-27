@@ -30,6 +30,8 @@ I am Jun Zhang, Professor at **Fudan University**, Shanghai, China. My research 
 
 # 🔥 News
 
+
+
 ---
 
 # 🎓 Academic Background
@@ -81,7 +83,7 @@ I am Jun Zhang, Professor at **Fudan University**, Shanghai, China. My research 
 
 ### 2025
 
-- [Liu, H. and Zhang, J. (2025).](Publication/2025%20Liu%20and%20Zhang%20KV%20cohomology) Some computational results on Koszul–Vinberg cochain complexes. *Information Geometry, 8*, 1–19.
+- [Liu, H. and Zhang, J. (2025).](Publication/2025%20Liu%20and%20Zhang%20KV%20cohomology.pdf) Some computational results on Koszul–Vinberg cochain complexes. *Information Geometry, 8*, 1–19.
 - [Naudts, J. and Zhang, J. (2025).](Publication/2025%20Naudts%20and%20Zhang.pdf) Pairs of subspaces, split quaternions and the modular operator. *Reports on Mathematical Physics, 96*(1), 115–145.
 - [Yi, Z. and Zhang, J. (2025).](Publication/2025%20Yi%20and%20Zhang%20tangent%20groupoid.pdf) Tangent groupoid and information geometry. In F. Nielsen & F. Barbaresco (Eds.), *Geometric science of information: GSI 2025* (pp. 141–150). Springer.
 

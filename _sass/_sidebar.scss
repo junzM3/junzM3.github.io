@@ -94,7 +94,7 @@
   img {
     max-width: 175px;
     min-width: 75px;
-    border-radius: 50%;
+    border-radius: 4px;  /* 改为小数值显示圆角矩形，或设为 0 显示直角矩形 */
 
     @include breakpoint($large) {
       padding: 5px;
