@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jun Zhang"
-description              : "Professor at Fudan University. Research interests include Information Geometry, Mathematical Psychology, Cognitive Science, and Machine Learning."
+description              : 
 repository               : "junzM3/junzM3.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -25,7 +25,7 @@ author:
   avatar           : "images/jun_zhang.jpg"
   bio              : "Professor, Fudan University"
   location         : "Shanghai, China"
-  employer         : "Fudan University"
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=6hegnqIAAAAJ&hl=en"
   email            : "junz@umich.edu"
