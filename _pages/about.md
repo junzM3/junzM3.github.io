@@ -19,7 +19,7 @@ redirect_from:
 
 # About Me
 
-I am Jun Zhang, Professor at Department of Psychology and Department of Statistics，University of Michigan. My research focuses on the intersection of mathematics, psychology, and cognitive science, with particular interests in:
+I am Jun Zhang, Professor at Department of Psychology and Department of Statistics, University of Michigan. My research focuses on the intersection of mathematics, psychology, and cognitive science, with particular interests in:
 
 - **Information Geometry** and its applications to machine learning and statistics
 - **Mathematical Psychology** and decision making
