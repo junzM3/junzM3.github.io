@@ -15,16 +15,16 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
+
 <span class='anchor' id='about-me'></span>
 
 # About Me
 
-I am Jun Zhang, Professor at Department of Psychology and Department of Statistics, University of Michigan. My research focuses on the intersection of mathematics, psychology, and cognitive science, with particular interests in:
+Jun Zhang is a Professor in the School of Artificial Intelligence at The Chinese University of Hong Kong, Shenzhen, and a tenured Professor in both the Department of Psychology and the Department of Statistics at the University of Michigan. He is a Fellow of the Association for Psychological Science and the Psychonomic Society. He has served as Vice President, President, and Executive Committee Member of the Society for Mathematical Psychology; as a board member and executive director of the Federation of Associations in Behavioral and Brain Sciences (FABBS); as Associate Editor of the *Journal of Mathematical Psychology*; and as Founding Co-Editor of *Information Geometry*.
 
-- **Information Geometry** and its applications to machine learning and statistics
-- **Mathematical Psychology** and decision making
-- **Cognitive Science** and theory of mind
-- **LLM Interpretability** and its underlying mechanisms
+Professor Zhang received his B.S. in Theoretical Physics from Fudan University in 1985 and his Ph.D. in Neurobiology from the University of California, Berkeley, in 1992. He subsequently joined the University of Michigan, where he earned tenure. During sabbatical leaves, he has held visiting appointments as a research fellow or visiting professor at the University of Melbourne, a CNRS institute in Marseille, the University of Waterloo, the RIKEN Brain Science Institute, the University of Cambridge, and Harvard University.
+
+Professor Zhang directs the M3 Laboratory ("Mind, Machine, Mathematics"), which has long pursued research in computational cognitive modeling, machine learning, artificial intelligence, and brain-inspired intelligence. For more than two decades, his research has centered on information geometry. Using methods from differential geometry, he characterizes manifolds of probability density functions and the dual structure of information spaces. He proposed the principle of "statistical mirror symmetry" and has worked to generalize Shannon entropy from classical information theory and exponential-family probability distributions from statistics. One potential application of this work in neural computation is a unified theory of the brain grounded in the free-energy principle and nonequilibrium statistical mechanics. He is also deeply interested in computational psychiatry, particularly the cognitive and affective processes involved in mental health conditions, including mood disorders and psychosis.
 
 ---
 
@@ -64,18 +64,6 @@ I am Jun Zhang, Professor at Department of Psychology and Department of Statisti
 ### 💰 Sponsored Research Projects
 
 - **DiDi Chuxing Direct sponsor project 224824** ("Research on Behavioral Interventions in Transportation Services") awarded from DiDi Chuxing Inc. PI: Jun Zhang and Colleen Seifert. Total $150,000 to UM (September 2017 – August 2018).
-
-- **DARPA/ARO Grant #W911NF-16-1-0383** ("Information Geometry: Geometrization of Science of Information") awarded from Defense Science Office, Defense Advance Research Projects Agency and managed through Army Research Office. PI: Jun Zhang. Total: $670,096 to UM (July 2016 – July 2019).
-
-- **AFOSR Grant #FA9550-15-1-0439** ("Characterizing Neural Code from a Minimal Description Length Perspective") award from Air Force Office for Scientific Research. PI: Ning Qian of Columbia University. Subcontract total: $273,590 to UM, PI Jun Zhang (September 2015 – September 2019).
-
-- **AFOSR Grant #FA9550-13-1-0025** ("Similarity and Features in Categorization: A Unified Machine Learning Framework") awarded from Directorate of Mathematics, Information, and Life Sciences, Air Force Office for Scientific Research. PI: Jun Zhang. Total: $660,782 to UM (January 2013 – December 2016).
-
-- **ARO Grant #W911NF-12-1-0163** ("Semi-inner Products in Banach Spaces with Applications to Regularized Learning, Sampling, and Sparse Approximation") awarded from Mathematical Science Division, Army Research Office. PI: Jun Zhang. Total: $298,969 to UM (May 2012 – Dec 2015).
-
-- **AFOSR Grant #FA9550-06-1-0298** ("Sequential Analysis of Automatic Target Detection with Classification Algorithms and Optimality Dynamic Decision-Making Under Time Pressure") from Cognition and Decision Program. PI: Jun Zhang. Total: $411,638 to UM (May 2006 – March 2012).
-
-- **NSF Grant #0631541** ("Information Geometry with Application to Model Selection") from MSBS Program. PI: Jun Zhang. Total: $250,000 to UM (December 2006 – November 2012).
 
 ---
 
